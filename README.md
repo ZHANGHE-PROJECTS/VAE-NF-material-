@@ -17,6 +17,7 @@ code：https://github.com/geosada/LVAT.
 https://arxiv.org/abs/2004.05617
 
 ### 3. f-VAEs: Improve VAEs with Conditional Flows
-code：https://github.com/bojone/flow/blob/master/f-VAEs.py
+https://arxiv.org/abs/1809.05861 Chinese version：https://zhuanlan.zhihu.com/p/45090025, https://0809zheng.github.io/2022/04/22/fvae.html
+code：https://github.com/bojone/flow/blob/master/f-VAEs.py 
 
 ### 4. 

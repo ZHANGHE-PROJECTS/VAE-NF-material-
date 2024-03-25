@@ -40,3 +40,6 @@ video: https://www.youtube.com/watch?v=q6qxn1ij328&list=PLoEMreTa9CNkZ-OJOPVkrRF
 
 ### 2. Conditional normalizing flow for multivariate time series anomaly detection
 paper: https://www.sciencedirect.com/science/article/pii/S0019057823004020
+
+### 3. Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification
+paper: https://link.springer.com/content/pdf/10.1007/978-3-031-18907-4_16.pdf

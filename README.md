@@ -5,7 +5,7 @@ https://github.com/VincentStimper/normalizing-flows
 # Fomulation
 ### Understanding VAE and Normalizing Flows 
 https://rongfanli98.github.io/project/Part-time/Understanding_VAE_and_Normalizing_Flows.pdf 
-### Flows in variational inference
+### Flows in variational inference (Flows as posterior)
 code：https://github.com/acids-ircam/pytorch_flows/blob/master/flows_03.ipynb
 
 # References 

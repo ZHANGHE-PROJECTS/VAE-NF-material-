@@ -31,4 +31,4 @@ paper：https://pubs.aip.org/aip/cha/article/32/3/033121/2835742
 
 ### 2. Temporal Normalizing Flows
 paper：https://arxiv.org/abs/1912.09092
- <br />code：github.com/PhIMaL/temporal_normalizing_flows
+ <br />code：https://github.com/PhIMaL/temporal_normalizing_flows

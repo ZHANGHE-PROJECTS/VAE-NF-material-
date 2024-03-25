@@ -3,7 +3,7 @@
 ### normflows: A PyTorch Package for Normalizing Flows
 https://github.com/VincentStimper/normalizing-flows
 
-## Fomulation
+## Formulation
 ### Understanding VAE and Normalizing Flows 
 https://rongfanli98.github.io/project/Part-time/Understanding_VAE_and_Normalizing_Flows.pdf 
 ### Flows in variational inference (Flows as posterior)

@@ -32,3 +32,11 @@ paper：https://pubs.aip.org/aip/cha/article/32/3/033121/2835742
 ### 2. Temporal Normalizing Flows
 paper：https://arxiv.org/abs/1912.09092
  <br />code：https://github.com/PhIMaL/temporal_normalizing_flows
+
+
+# Maybe relevant
+### 1. Continuous Normalizing Flows
+video: https://www.youtube.com/watch?v=q6qxn1ij328&list=PLoEMreTa9CNkZ-OJOPVkrRFvoj_VHH1Uz&index=30
+
+### 2. Conditional normalizing flow for multivariate time series anomaly detection
+paper: https://www.sciencedirect.com/science/article/pii/S0019057823004020

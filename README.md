@@ -28,10 +28,12 @@ paper：https://arxiv.org/abs/1809.05861
 ### 1. Learning the temporal evolution of multivariate densities via normalizing flows
 paper：https://pubs.aip.org/aip/cha/article/32/3/033121/2835742
  <br />code：https://github.com/Yubin-Lu/Temporal-normalizing-flows-for-SDEs/tree/main
+  <br /> experiment: multi variables
 
 ### 2. Temporal Normalizing Flows
 paper：https://arxiv.org/abs/1912.09092
  <br />code：https://github.com/PhIMaL/temporal_normalizing_flows
+ <br /> experiment: single variable
 
 ### 3. Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
 paper：https://arxiv.org/abs/2002.06103

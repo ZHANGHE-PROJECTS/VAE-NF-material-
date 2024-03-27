@@ -33,6 +33,10 @@ paper：https://pubs.aip.org/aip/cha/article/32/3/033121/2835742
 paper：https://arxiv.org/abs/1912.09092
  <br />code：https://github.com/PhIMaL/temporal_normalizing_flows
 
+### 3. Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
+paper：https://arxiv.org/abs/2002.06103
+ <br />Chinese version：https://zhuanlan.zhihu.com/p/615795048
+  <br />code：https://github.com/zalandoresearch/pytorch-ts
 
 # Maybe relevant
 ### 1. Continuous Normalizing Flows

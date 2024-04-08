@@ -38,7 +38,7 @@ paper：https://arxiv.org/abs/1912.09092
 ### 3. Multivariate Probabilistic Time Series Forecasting via Conditioned Normalizing Flows
 paper：https://arxiv.org/abs/2002.06103
  <br />Chinese version：https://zhuanlan.zhihu.com/p/615795048
-  <br />code：https://github.com/zalandoresearch/pytorch-ts
+ <br />code：https://github.com/zalandoresearch/pytorch-ts
 
 # Maybe relevant
 ### 1. Continuous Normalizing Flows
@@ -49,3 +49,7 @@ paper: https://www.sciencedirect.com/science/article/pii/S0019057823004020
 
 ### 3. Adversarial VAE with Normalizing Flows for Multi-Dimensional Classification
 paper: https://link.springer.com/content/pdf/10.1007/978-3-031-18907-4_16.pdf
+
+### 4. Diffusion Normalizing Flow
+paper: https://arxiv.org/pdf/2110.07579v1.pdf
+ <br />code：https://github.com/qsh-zh/DiffFlow
